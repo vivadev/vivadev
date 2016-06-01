@@ -1,0 +1,9 @@
+body {
+background-color: black;
+color: white;
+}
+.welcome-message {
+font-size: 100px;
+font-weight: bold;
+text-align: center;
+}
